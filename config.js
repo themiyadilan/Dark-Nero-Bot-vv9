@@ -15,7 +15,7 @@ global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '94774071805'
 global.devs = '94774071805';
 global.website = 'https://kaveeshasithum.netlify.app/' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.ibb.co/zrvByTb/IMG-20230609-WA0083.jpg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.ibb.co/hcLd217/IMG-20230905-WA0004.jpg'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? 'DARK-NERO-MD 💗' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'CYBER-YAKUZA' : process.env.OWNER_NAME,
